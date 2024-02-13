@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bits and Pizzas</string>
+    <string name="this_is_the_order_fragment">Какой вид пиццы вы бы хотели?</string>
+    <string name="main_pizza">Пицца</string>
+    <string name="radio_but_sauce">Острый-соус</string>
+    <string name="radio_but_funghi">Грибы</string>
+    <string name="choose_any_extras">Пожалуйста, выберите любые дополнительные услуги:</string>
+    <string name="chip_parmesan">Пармезан</string>
+    <string name="chip_chili_oil">Масло чили</string>
+    <string name="fab_send_menu">Фэб кнопка</string>
+</resources>
